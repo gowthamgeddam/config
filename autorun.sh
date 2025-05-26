@@ -1,6 +1,6 @@
-mv .bash_aliases ~/.bash_aliases
+cp .bash_aliases ~/.bash_aliases
 
-mv .bashrc ~/.bashrc
+cp .bashrc ~/.bashrc
 
 chmod +x apt_install.sh
 
