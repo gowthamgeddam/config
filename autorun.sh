@@ -1,6 +1,6 @@
-cp .bash_aliases ~/.bash_aliases
+cp -i .bash_aliases ~/.bash_aliases
 
-cp .bashrc ~/.bashrc
+cp -i .bashrc ~/.bashrc
 
 chmod +x apt_install.sh
 
